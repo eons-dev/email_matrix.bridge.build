@@ -1,4 +1,4 @@
-from ebbs import Buildre
+from ebbs import Builder
 import eons
 import logging
 
